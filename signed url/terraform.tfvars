@@ -1,8 +1,0 @@
-project_id  = "neural-foundry-368906"
-region = "us-central1"
-zone = "us-central1-c"
-Bucket_name = "url-bucket-tf1"
-location = "US"
-Bucket-object_name = "My-image"
-content_type = "text/plain; charset=utf-8"
-storage_class = "STANDARD"

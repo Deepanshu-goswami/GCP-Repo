@@ -1,7 +1,0 @@
-#ignore SA Key
-5_1.json
-
-#ignore statefile
-terraform.tfstate
-terraform.tfstate.backup
-
